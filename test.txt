@@ -6,4 +6,4 @@ edit on dev branch add master
 edit on dev branch merge test
 for fast-forward
 test for stash
-
+test for dev
